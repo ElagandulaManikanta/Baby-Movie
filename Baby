@@ -1,0 +1,16 @@
+# Baby-Movie
+
+class VaishnaviBeforeCollege:
+    def looks(self):
+        print("Vaishanvi's natural looks")
+
+    def love(self):
+        print("Vaishanvi's Deep love with Anand")
+
+
+class VaishnaviAfterCollege(VaishnaviBeforeCollege):
+    def looks(self):
+        print("Vaishanvi applies foundation and lipstick.")
+
+    def love(self):
+        print("Vaishanvi's Deep love with Anand and dated with viraj")
